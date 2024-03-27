@@ -1,0 +1,9 @@
+com/weather/WeatherforcastingApplication.class
+com/weather/model/WeatherLatLongResponse.class
+com/weather/model/Weather.class
+com/weather/config/RedisConfig.class
+com/weather/model/CurrentTemp.class
+com/weather/controller/WeatherController.class
+com/weather/exception/WeatherApiException.class
+com/weather/model/WeatherResponse.class
+com/weather/service/WeatherService.class
