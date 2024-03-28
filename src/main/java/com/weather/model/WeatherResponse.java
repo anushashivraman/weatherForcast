@@ -3,9 +3,12 @@ package com.weather.model;
 import lombok.Data;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
+
+
+
 @Data
-@AllArgsConstrutor
-@NoArgsConstrutor
+@AllArgsConstructor
+@NoArgsConstructor
 public class WeatherResponse {
 
     private String zip;

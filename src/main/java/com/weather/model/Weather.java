@@ -5,8 +5,8 @@ import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 @Data
-@AllArgsConstrutor
-@NoArgsConstrutor
+@AllArgsConstructor
+@NoArgsConstructor
 public class Weather {
     private String main;
     private String description;

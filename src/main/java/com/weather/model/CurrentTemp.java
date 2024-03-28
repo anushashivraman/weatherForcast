@@ -11,5 +11,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class CurrentTemp {
     private double temp;
-    private Weather[] weather;
+    private double temp_min;
+    private double temp_max;
+    private double pressure;
+    private double humidity;
 }
